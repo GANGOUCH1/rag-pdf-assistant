@@ -1,13 +1,6 @@
-# rag-pdf-assistant
-AI-powered document assistant that lets you upload any PDF and ask 
-natural language questions about its content. Combines vector search 
-with Google Gemini LLM to deliver accurate, context-grounded answers. 
-Features a production-grade backend with job queuing, retry logic, 
-and real-time observability.
-# 🧠 RAG PDF Assistant — Production-Grade AI Document Q&A
+# 🧠 RAG PDF Assistant | Production-Grade AI Document Q&A
 
 > Upload any PDF. Ask anything. Get grounded, accurate answers — backed by a production-ready pipeline.
-
 ---
 
 ## 🚀 What is this?
